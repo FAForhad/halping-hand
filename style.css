@@ -1,0 +1,39 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+.help{
+    font-size: 60px;
+}
+.inviting{
+    background-image:
+    linear-gradient(rgba(76, 85, 139, 0.52), rgba(17, 17, 17, 0.73)), url(./images/donation13.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    height: 100vh;
+    width: 75%;
+    padding-left: 25%;
+    padding-top: 15%;
+    text-align: center;
+}
+.text{
+    width: 70%;
+    text-align: center;
+}
+.text p{
+    padding: 6%;
+}
+#color{
+    color: rgb(14, 14, 14);
+}
+.button-type{
+    color: aliceblue;
+    background-color: rgb(146, 34, 34);
+    text-decoration: none;
+    font-weight: 700;
+    font-weight: 700;
+    padding: 18px 40px;
+    margin-top: 10%;
+    border-radius: 10px;  
+}
