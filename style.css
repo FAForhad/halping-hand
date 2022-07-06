@@ -26,19 +26,19 @@ body{
     padding: 6%;
 }
 #color{
-    color: rgb(14, 14, 14);
+    color:  #3254a5;
 }
 .button-type{
     color: aliceblue;
-    background-color: rgb(146, 34, 34);
+    background-color: #3254a5cb;
     text-decoration: none;
     font-weight: 700;
     font-weight: 700;
-    padding: 18px 40px;
-    margin-top: 10%;
+    padding: 20px 40px;
     border-radius: 10px;  
 }
 .donation-theory{
+    padding-top:2%;
     padding-left: 25%;
     width: 50%;
     text-align: center;
@@ -61,10 +61,9 @@ body{
     border-radius: 5px;
 }
 #twohundred{
-    background:linear-gradient(rgba(20, 2, 2, 0.911), rgba(146, 34, 34));
-    color:aliceblue;
+    background-color: rgba(181, 241, 140, 0.342);
 }
-Input {
+#donation-ammount {
     font-size: 20px;
     padding-left: 37%;
     border: none;
@@ -89,15 +88,15 @@ Input {
     margin-bottom: 5%;
 }
 #logofood{
-    background-color: rgba(240, 223, 202, 0.342);
+    background-color: #3254a5cb;
     padding-top:2%;
 }
 #logoshelter{
-    background-color: rgba(243, 243, 155, 0.342);
+    background-color: rgba(181, 241, 140, 0.342);
     padding-top: 1%;
 }
 #logostudy{
-    background-color: rgba(0, 255, 255, 0.178);
+    background-color:  #3254a5cb;
     padding-top: 2%;
 }
 #foods{
@@ -105,4 +104,53 @@ Input {
 }
 #cothes{
     width: 50%;
+}
+.email-type{
+    background-color:rgba(181, 241, 140, 0.342);
+    margin-left: 20%;
+    margin-right: 25%;
+    margin-top: 5%;
+    margin-bottom:5%;
+    width: 40%;
+    padding-left: 20%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    border-radius: 10px;
+}
+#email-id{
+    background-color: #D9D9D9;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right:12% ;
+    border: none;
+}
+#email-button{
+    background-color: rgba(0, 255, 255, 0.178);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right:3% ;
+    border:none;
+}
+footer{
+    background-color: #2B3856;
+    color: aliceblue;
+}
+.foot{
+    display: flex;
+    color: aliceblue; 
+    height: 100px;
+    padding-left: 35%;
+    padding-right: 35%;
+    padding-bottom: 2%;
+}
+.footer-head{
+    padding-left: 45%;
+    padding-top: 2%;
+    font-style: italic;
+    font-family:cursive;
+}
+.footer-img{
+padding-left: 1%;
+text-align: center;
+font-family:'Times New Roman', Times, serif
 }
