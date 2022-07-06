@@ -73,3 +73,36 @@ Input {
     Background :transparent ;
     border-bottom: 1px solid rgb(32, 32, 32);
 }
+.plans{
+    display: flex;
+    width: 100%;
+    padding-top: 5%;
+    
+}
+.needs{
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+#logofood{
+    background-color: rgba(240, 223, 202, 0.342);
+    padding-top:2%;
+}
+#logoshelter{
+    background-color: rgba(243, 243, 155, 0.342);
+    padding-top: 1%;
+}
+#logostudy{
+    background-color: rgba(0, 255, 255, 0.178);
+    padding-top: 2%;
+}
+#foods{
+    width: 50%;
+}
+#cothes{
+    width: 50%;
+}
