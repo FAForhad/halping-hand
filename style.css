@@ -4,6 +4,7 @@ body{
 }
 .help{
     font-size: 60px;
+    padding-top: 10%;
 }
 .inviting{
     background-image:
@@ -37,3 +38,37 @@ body{
     margin-top: 10%;
     border-radius: 10px;  
 }
+.donetion-theory{
+    padding-left: 25%;
+    width: 50%;
+    text-align: center;
+}
+.donetion-theory p{
+    font-size: 19px;
+}
+.amounts{
+    font-size: 30px;
+    display: flex;
+    font-weight: 700;
+    width: 80%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.taka{
+    margin-left: 12%;
+    padding: 35px 35px;
+    box-shadow: 10PX 10PX 40px gray;
+    border-radius: 5px;
+}
+#twohundred{
+    background:linear-gradient(rgba(0, 0, 0, 0.664), rgba(146, 34, 34, 0.877));
+}
+Input {
+    font-size: 20px;
+    padding-left: 37%;
+    border: none;
+    margin-left: 7%;
+    Width: 50%;
+    Background :transparent ;
+    border-bottom: 1px solid rgb(32, 32, 32);
+    }
